@@ -6,8 +6,7 @@
 Modul Praktikum 4 - TEKNIK PENCARIAN BLIND SEARCH
 1.	Tentukan bagaimana algoritma BFS berikut dapat menentukan node ke 8, 6, dan 7.
 
-
-import java.util.ArrayDeque; 
+     import java.util.ArrayDeque; 
 import java.util.ArrayList; 
 import java.util.HashMap; 
 import java.util.List; 
