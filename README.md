@@ -1,4 +1,4 @@
-# Modul-Praktikum-4-Teknik Pencarian Blind Search
+# Modul Praktikum 4 Teknik Pencarian Blind Search
 # Alfan Maulana
 # 5311421011
 # Teknik Elektro
