@@ -1,7 +1,7 @@
 # Modul Praktikum 4 Teknik Pencarian Blind Search
-# Alfan Maulana
-# 5311421011
-# Teknik Elektro
+## Alfan Maulana
+## 5311421011
+## Teknik Elektro
 
 Modul Praktikum 4 - TEKNIK PENCARIAN BLIND SEARCH
 1.	Tentukan bagaimana algoritma BFS berikut dapat menentukan node ke 8, 6, dan 7.
